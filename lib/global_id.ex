@@ -5,19 +5,6 @@ defmodule GlobalId do
   """
 
   @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> GlobalId.hello()
-      :world
-
-  """
-  def hello do
-    :world
-  end
-
-  @doc """
   Please implement the following function.
   64 bit non negative integer output
   """
